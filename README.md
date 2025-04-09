@@ -34,7 +34,7 @@ This section clearly shows **polymorphic behavior** using a common interface.
 
 ---
 
-## 🔧 Installation & Execution
+##  Installation & Execution
 
 ### 1️. Requirements
 
